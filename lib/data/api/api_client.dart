@@ -27,3 +27,4 @@ class ApiClient extends GetConnect implements GetxService {
     }
   }
 }
+// Updated it
